@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tech-blogs/static/css/main.cdf95e7f.css",
+    "main.js": "/Tech-blogs/static/js/main.7872bef0.js",
+    "index.html": "/Tech-blogs/index.html",
+    "main.cdf95e7f.css.map": "/Tech-blogs/static/css/main.cdf95e7f.css.map",
+    "main.7872bef0.js.map": "/Tech-blogs/static/js/main.7872bef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf95e7f.css",
+    "static/js/main.7872bef0.js"
+  ]
+}
